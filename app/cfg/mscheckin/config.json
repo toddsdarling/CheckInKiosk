@@ -4,9 +4,9 @@
 	"logo":"msm-logo.png",
 	"f1status":"New from Student Check In",
 	"uselocaldb":true,
-	"localdbserver":"localhost",
-	"localdbuser":"root",
-	"localdbpassword":"HccSql75",
+	"localdbserver":"xxx",
+	"localdbuser":"xx",
+	"localdbpassword":"xxx",
 	"localdbname":"local_student_lookup",
 	"localdbtable":"t_students",
 	"formtemplate":"template.php"
