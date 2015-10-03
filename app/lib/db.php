@@ -42,25 +42,7 @@
 
 
 
-/*    
-global $dbSettings; 
-global $conn;
-  
- 
-//staging database settings	 
-$dbSettings = array(
-'server'=>'localhost',
-'user'=>'root',
-'password'=>'HccSql75',
-'dbName' =>'local_student_lookup');	 
-	 
-/*
-//live database settings	 
-$dbSettings = array(
-'server'=>'external-db.s18844.gridserver.com',
-'user'=>'db18844_global',
-'password'=>'gethope919',
-'dbName' =>'db18844_serving'); 
+
 
 $conn = mysqli_connect($dbSettings['server'], $dbSettings['user'], $dbSettings['password']);
 
